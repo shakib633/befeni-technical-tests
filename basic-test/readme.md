@@ -57,13 +57,6 @@ multiply 3
 apply 3
 ```
 
-const num1 = 3;
-const num2 = 2;
-
-const sum = (num1 + num2)*num1;
-
-// display the sum
-console.log(sum);
 
 **Output to screen**
 
@@ -88,13 +81,7 @@ multiply 9
 apply 5
 ```
 
-const num1 = 9;
-const num2 = 5;
 
-const sum = (num1 * num2);
-
-// display the sum
-console.log(sum);
 
 **Output to screen**
 
@@ -119,8 +106,6 @@ apply 1
 
 ```
 
-const num=1
-console.log(num)
 
 **Output to screen**
 
