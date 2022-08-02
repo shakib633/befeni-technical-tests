@@ -60,7 +60,6 @@ apply 3
 const num1 = 3;
 const num2 = 2;
 
-// add two numbers
 const sum = (num1 + num2)*num1;
 
 // display the sum
@@ -92,7 +91,6 @@ apply 5
 const num1 = 9;
 const num2 = 5;
 
-// add two numbers
 const sum = (num1 * num2);
 
 // display the sum
